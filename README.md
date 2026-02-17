@@ -41,3 +41,11 @@ The backend was previously deployed on AWS, however had to be removed as trial e
 - This can be downloaded as a pdf file for the user.
 
 ![feature 7](assets/feature7.png)
+
+## Tools
+
+- Nextjs
+- Redux
+- Spring-boot
+- Psql
+- AWS
