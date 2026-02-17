@@ -42,6 +42,10 @@ The backend was previously deployed on AWS, however had to be removed as trial e
 
 ![feature 7](assets/feature7.png)
 
+## Demo
+
+[Link to Demo](https://youtu.be/TkgcyrftSQ8)
+
 ## Tools
 
 - Nextjs
